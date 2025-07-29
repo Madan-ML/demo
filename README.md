@@ -1,3 +1,3 @@
 # demo
 this is my first repo
-author madan dn
+--author madan dn
